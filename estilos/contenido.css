@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+#nacionales #contenido {
+    background-color:#e5d5d5c2;
+	width: auto;
+    height: auto;
+	display: inline-block;
+}
+
+#titulosdesubpaginas {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px; 
+    float: left;
+    text-align: center;
+	padding: 25px 100px;
+}
+
+#contenido img {
+    width: 600px;
+	height: 353px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#contenido p {
+    text-align: justify;
+    padding: 15px 45px;
+}
+
+
+video {
+    width: 600px;
+	height: 353px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
